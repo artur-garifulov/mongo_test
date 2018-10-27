@@ -141,21 +141,6 @@ class TestTask(unittest.TestCase):
                       "path": "file path 0",
                       "label": "LD",
                       "quality": 0
-                    },
-                    {
-                      "path": "file path 1",
-                      "label": "SD",
-                      "quality": 1
-                    },
-                    {
-                      "path": "file path 2",
-                      "label": "HD",
-                      "quality": 2
-                    },
-                    {
-                      "path": "file path 3",
-                      "label": "FULL_HD",
-                      "quality": 3
                     }
                   ]
                 }
